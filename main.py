@@ -3,7 +3,7 @@ import numpy as np
 from ultralytics import YOLO
 import cvzone
 from paddleocr import PaddleOCR
-import os
+import os 
 from datetime import datetime
 import xlwings as xw
 
