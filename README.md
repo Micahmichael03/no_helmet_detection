@@ -45,7 +45,7 @@ datetime
 xlwings
 paddleocr
 ```
-
+ 
 ## Output
 - Detected number plates saved as images.
 - Extracted text data saved in an Excel file.
